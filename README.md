@@ -10,6 +10,9 @@
 
 HDAC1 входит в комплексы NuRD, Sin3, CoREST, экспрессируется во многих тканях человека, включая сердечную мышцу, почки, печень, легкие, мозг, имеет доменную структуру, включающую каталитический домен HDAC и домены, связанные с регуляцией активности белка.
 
+Таблица с значениями e-value:
+![image](https://github.com/cherepasshka/bioinf-project/assets/50082204/ab523340-6da1-4585-a0ca-217ce11aaac2)
+
 Таблица с логарифмированными значениями e-value:
 ![image](https://github.com/cherepasshka/bioinf-project/assets/50082204/32c0d832-9b18-4b77-bc22-4c15251fdcc3)
 
@@ -18,3 +21,5 @@ Heatmap таблица:
 ![image](https://github.com/cherepasshka/bioinf-project/assets/50082204/1c066461-8bf4-4985-976b-dfb825dc7cb5)
 
 Выравненные гистоны находятся в [data/](https://github.com/cherepasshka/bioinf-project/tree/main/data)
+
+По тепловой карте можно определить, что раньше всего белок появился ровно в таком виде у ciliate
